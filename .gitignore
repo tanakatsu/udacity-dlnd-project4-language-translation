@@ -1,0 +1,7 @@
+.DS_store
+.ipynb_checkpoints
+__pycache__/
+checkpoints
+data
+preprocess.p
+params.p
